@@ -61,7 +61,7 @@ body {
   -webkit-box-direction: normal;
       -ms-flex-direction: column;
           flex-direction: column;
-  background-image: url(../hero-bg.png);
+  background-image: url(..hero-bg.png);
   background-size: cover;
   background-position: bottom;
 }
