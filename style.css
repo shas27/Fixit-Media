@@ -122,7 +122,7 @@ a:focus {
 }
 
 .custom_nav-container .nav_search-btn {
-  background-image: url(../search-icon.png);
+  background-image: url(..search-icon.png);
   background-size: 22px;
   background-repeat: no-repeat;
   background-position-y: 7px;
@@ -291,12 +291,12 @@ a:focus {
 }
 
 .slider_section .carousel_btn-container .carousel-control-prev {
-  background-image: url(../prev.png);
+  background-image: url(..prev.png);
   background-color: #ffffff;
 }
 
 .slider_section .carousel_btn-container .carousel-control-next {
-  background-image: url(../next.png);
+  background-image: url(..next.png);
   background-color: #582fd7;
 }
 
@@ -591,7 +591,7 @@ a:focus {
 
 /* end contact section */
 .footer_bg {
-  background-image: url(../footer-bg.png);
+  background-image: url(..footer-bg.png);
   background-size: cover;
   background-position: top;
 }
